@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3157049785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc0e104fc2ecbebe290969d97fcfd67e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07353491aca6e6a29636b555171f2e48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/map/ground.mat
+- Assets/Bundles/map/map.prefab
+- Assets/Bundles/map/base1.tga
+Dependencies: []

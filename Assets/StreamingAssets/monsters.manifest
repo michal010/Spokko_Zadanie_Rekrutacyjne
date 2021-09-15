@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2452955453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbd92f8c4c39ec8cbf02c27669eaf953
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36f5a697a8230644cc17a7026cde41c6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/monsters/ghoul/monster_ghoul.prefab
+- Assets/Bundles/monsters/drowner/monster_drowner.prefab
+- Assets/Bundles/monsters/endrega/monster_endrega.prefab
+- Assets/Bundles/monsters/nekker/monster_nekker.prefab
+Dependencies: []
